@@ -1,0 +1,14 @@
+.menu a:focus{
+    color: red;
+    font-family: cursive ;
+    text-decoration: double ;
+  }
+.menu a::shadow {
+color: blue;
+background-color: wheat ;
+font-size: 25px;
+}
+ion-title{
+    font-family: Arial monospace;
+    font-size: 28px;
+    }
